@@ -2,7 +2,7 @@
 
 #########################################################
 PACKAGE_DIR='Bo-Hlala/main'
-MY_FILE="skin.BO-HLALA.Oe-alliance.Xevnt.FHD-v.1.0.tar.gz"
+MY_FILE="enigma2-plugin-skin.BO-HLALA.Xevnt.FHD.all.tar.gz"
 #########################################################
 
 MY_MAIN_URL="https://raw.githubusercontent.com/biko-73/"
